@@ -1,4 +1,4 @@
-![I program my home computer ..... Beam myself into the future](./nicepic.png "Title")
+![I program my home computer ..... Beam myself into the future](https://raw.githubusercontent.com/olofwalker/olofwalker/master/nicepic.jpg "Summer time")
 
 ### Hi there 👋
 
